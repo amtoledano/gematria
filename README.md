@@ -14,3 +14,4 @@ Sample output:
 | Gematria Atbash 779 Single 5
 | Gematria Katan 35 Single 8
 
+
